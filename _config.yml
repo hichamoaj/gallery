@@ -28,10 +28,10 @@ baseurl: /gallery
 #############################
 
 # The title that appears on the tab
-title: Andy Zhang's Gallery
+title: hichamoaj - dnq
 
 # The title on the web page
-full_name: Andy Zhang
+full_name: hichamoaj
 
 # The type of layout
 # Options: ROWS, SQUARES, COLUMNS
@@ -44,10 +44,10 @@ layout_style: COLUMNS
 spacing: 10
 
 # Boolean(true|false): Shuffle the photos in the album
-shuffle: false
+shuffle: true
 
 # Integer: Number of columns for square or columns
-columns: 3
+columns: 4
 
 # Integer: Max height for rows
 max_height: 400
